@@ -1,4 +1,5 @@
 📊 Data-Driven Customer Insights & Probability Analysis for Aerofit
+
 📌 Project Overview
 This project analyzes the Aerofit Treadmill dataset using descriptive statistics, probability models, and customer profiling.
 The goal is to extract valuable business insights and provide simple actionable recommendations to help Aerofit strengthen its customer reach and stay ahead of competitors.
@@ -8,12 +9,14 @@ Python (Jupyter Notebook)
 Pandas – Data manipulation & probability tables
 NumPy – Statistical operations
 Matplotlib & Seaborn – Data visualization (heatmaps, pairplots, boxplots)
+
 🔍 Techniques Applied
 Descriptive Statistics – Mean, Median, Mode, Outlier detection
 Probability Analysis – Marginal & Conditional probabilities
 Customer Profiling – Categorization based on demographics & usage
 Correlation Analysis – Heatmaps & pairplots
 Business Recommendations – Converting insights into strategic actions
+
 🎯 Operations Performed
 Data Cleaning & Exploration
 
@@ -33,12 +36,14 @@ Segmented users into categories (Budget Beginners, Fitness Families, Premium Pro
 Business Insights & Recommendations
 
 Developed 10 simple, actionable strategies to boost customer engagement and sales.
+
 🧠 Skills Gained
 Exploratory Data Analysis (EDA)
 Descriptive Statistics & Probability
 Data Visualization & Storytelling
 Customer Segmentation & Profiling
 Business Strategy through Analytics
-📈 Key Outcome
-➡️ The project demonstrates how statistics + probability + visualization can uncover business-critical insights from raw data and guide decision-making strategies.
+
+\📈 Key Outcome
+The project demonstrates how statistics + probability + visualization can uncover business-critical insights from raw data and guide decision-making strategies.
 
